@@ -7,5 +7,5 @@
 + JAVA - 17.0.9
 + Querydsl - 5.0.0
 + Swagger - 3.0.0
-
+    + http://localhost:8080/swagger-ui/index.html
 ---
